@@ -1,5 +1,7 @@
 ## Bem vindo a Página do nosso Telescópio Dobsoniano Caseiro
 
+# Primeiro projeto open source educacional do Professor Marco Aurelio Areas
+
 
 ### Telescopio Dobsoniano
 
