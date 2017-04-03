@@ -10,6 +10,7 @@ Os telescópios dobsonianos operam com pouco aumento portanto dispensam algumas 
 
 
 [Montagem inicial](https://github.com/mssuper/telescopiocaseiro/blob/master/Hardware/PT-001/Primeira%20montagem.jpg)
+![image](https://github.com/mssuper/telescopiocaseiro/blob/master/Hardware/PT-001/Primeira%20montagem.jpg)
 
 ### Suporte ou Contato
 
